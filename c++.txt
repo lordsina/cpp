@@ -40,3 +40,4 @@ Macro
 Call by Refrence  & value
 funcation overloading
 Tamplate
+f<int>(d)
