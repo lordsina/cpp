@@ -1,12 +1,33 @@
-sizeof()
+sizeof();
 default:signed char a; -128 ....+127
 unsigned char a; 0...255
 ^:XOR
 Y=x>13 ? 'A':'B'
-Y=(x+3,y+1)
+Y=(x+3,y+1);
 #Define Pi 14
 Type Casting (flaot)
-cout.width()
-cout.fill(*)
-cout.setf(ios::right)
-cout.setf(ios::left)
+cout.width();
+cout.fill(*);
+cout.setf(ios::right);
+cout.setf(ios::left);
+//////////////////////////////////
+	cout << INT_MAX <<endl;
+	cout << INT_MIN <<endl;
+	cout << endl << endl;
+	cout << SHRT_MAX << endl;
+	cout << SHRT_MIN << endl;
+	cout << endl << endl;
+	cout << LONG_MAX << endl;
+	cout << LONG_MIN << endl;
+///////////////////////////////////
+for(i=1;ch=cin.get() !='.'  ;i++);
+for(;;)
+if
+switch
+else if
+case
+break;
+continue
+prototype
+::Y //Global
+Y //local
