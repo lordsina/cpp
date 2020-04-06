@@ -1,0 +1,12 @@
+sizeof()
+default:signed char a; -128 ....+127
+unsigned char a; 0...255
+^:XOR
+Y=x>13 ? 'A':'B'
+Y=(x+3,y+1)
+#Define Pi 14
+Type Casting (flaot)
+cout.width()
+cout.fill(*)
+cout.setf(ios::right)
+cout.setf(ios::left)
