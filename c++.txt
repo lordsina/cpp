@@ -31,3 +31,12 @@ continue
 prototype
 ::Y //Global
 Y //local
+class:Static
+class:default auto
+class:register
+int f(int a=1,int b,int c)
+inline double f(const double r )
+Macro
+Call by Refrence  & value
+funcation overloading
+Tamplate
