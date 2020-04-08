@@ -51,3 +51,7 @@ Array 2D
 Pointer
 Pointer to Pointer
 Pointer Const
+int a[]={};
+int *p;
+*(p+1)=8
+pointer and array
