@@ -48,3 +48,6 @@ NameSpace
 Array
 Const
 Array 2D
+Pointer
+Pointer to Pointer
+Pointer Const
