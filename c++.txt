@@ -56,3 +56,7 @@ int *p;
 *(p+1)=8
 pointer and array
 3DArray
+Pointeres  to  Function  As parameters of Another function
+Passing arg throgh pointer
+dynamic memory new delete
+dynamic array
