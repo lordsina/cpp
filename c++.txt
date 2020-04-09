@@ -55,3 +55,4 @@ int a[]={};
 int *p;
 *(p+1)=8
 pointer and array
+3DArray
