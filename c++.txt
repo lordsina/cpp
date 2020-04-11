@@ -60,3 +60,5 @@ Pointeres  to  Function  As parameters of Another function
 Passing arg throgh pointer
 dynamic memory new delete
 dynamic array
+Refrence
+String
